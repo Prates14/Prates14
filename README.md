@@ -9,7 +9,7 @@
   <img aling="center" alt="Css3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div></br>
 
-Sou consistente e motivado em aprender mais sobre programação como todo, fazendo o máximo para superar qualquer desafio.
+👉Sou consistente e motivado em aprender mais sobre programação como todo, fazendo o máximo para superar qualquer desafio.👈
 ## Contato
 - Linkedin: www.linkedin.com/in/guilherme-prates-931514250
 - Instagram: https://www.instagram.com/guilherme_p.d.s
