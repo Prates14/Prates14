@@ -1,3 +1,5 @@
 ### Olá! Eu sou o Guilherme Prates👋
 #### Bem vindo ao meu perfil!
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guipratesdsantos@gmail.com)
+![Prates's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prates14&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prates14&hide_progress=false)
