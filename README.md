@@ -15,4 +15,5 @@
 ## Contato
 - Linkedin: www.linkedin.com/in/guilherme-prates-931514250
 - Instagram: https://www.instagram.com/guilherme_p.d.s
-- WhatsApp: +55 (31) 99340-1281
+- WhatsApp: +55 (31) 97506-1281
+- Telefone: +55 (31) 99340-1281
