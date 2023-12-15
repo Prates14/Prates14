@@ -13,7 +13,7 @@
 
 👉Sou consistente e motivado em aprender mais sobre programação como todo, fazendo o máximo para superar qualquer desafio.👈
 ## Contato
-- Linkedin: www.linkedin.com/in/guilherme-prates-931514250
+- Linkedin: www.linkedin.com/in/guilherme-prates-dos-santos14
 - Instagram: https://www.instagram.com/guilherme_p.d.s
 - WhatsApp: +55 (31) 97506-1281
 - Telefone: +55 (31) 99340-1281
