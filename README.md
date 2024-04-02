@@ -15,5 +15,6 @@
 ## Contato
 - Linkedin: www.linkedin.com/in/guilherme-prates-dos-santos14
 - Instagram: https://www.instagram.com/guilherme_p.d.s
+- DIO.me: https://www.dio.me/users/guidps1441
 - WhatsApp: +55 (31) 97506-1281
 - Telefone: +55 (31) 99340-1281
