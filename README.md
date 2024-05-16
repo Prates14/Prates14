@@ -9,9 +9,12 @@
   <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img aling="center" alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img aling="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img aling="center" alt="GIT" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+  <img aling="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
+  <img aling="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 </div></br>
 
-👉Sou consistente e motivado em aprender mais sobre programação como todo, fazendo o máximo para superar qualquer desafio.👈
+👉Sou sereno, reflectivo e humilde. Motivado em aprender mais sobre programação como todo, fazendo o máximo para superar qualquer desafio.👈
 ## Contato
 - Linkedin: www.linkedin.com/in/guilherme-prates-dos-santos14
 - Instagram: https://www.instagram.com/guilherme_p.d.s
