@@ -14,7 +14,7 @@
   <img aling="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div></br>
 
-👉Sou sereno, reflectivo e humilde. Motivado em aprender mais sobre programação como todo, fazendo o máximo para superar qualquer desafio.👈
+> Sou sereno, reflectivo e humilde. Motivado em aprender mais sobre programação como todo, fazendo o máximo para superar qualquer desafio.(^‿^)
 ## Contato
 - Linkedin: www.linkedin.com/in/guilherme-prates-dos-santos14
 - Instagram: https://www.instagram.com/guilherme_p.d.s
