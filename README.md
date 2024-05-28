@@ -1,7 +1,7 @@
 <h1 align="center"><b>Olá! Eu sou o Guilherme Prates</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=1000&color=4839F3&center=false&vCenter=true&random=false&width=435&lines=Desenvolvedor+Frontend;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Objetivo+final+%3D%3D%3E+FullStack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=24&duration=4000&pause=1000&color=694EF7&vCenter=true&random=false&width=435&lines=Desenvolvedor+Frontend;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Objetivo+%3D%3D%3E+FullStack" alt="Typing SVG" /></a>
   
   <img src="https://www.pageupsoft.com/images/banner_slide1.png" width="300" align="right"/>
 </div>
