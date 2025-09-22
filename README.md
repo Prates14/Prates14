@@ -3,7 +3,7 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=24&duration=3000&pause=1000&color=694EF7&vCenter=true&random=false&width=435&lines=Desenvolvedor+Frontend;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Objetivo+%E2%87%92+FullStack" alt="Typing SVG" /></a>
   
-  <img src="https://www.pageupsoft.com/images/banner_slide1.png" width="300" align="right"/>
+  <img src="https://www.pngmart.com/files/22/Programmer-PNG-HD-Isolated.png" width="300" align="right"/>
 </div>
 
 <br><br><br><br>
